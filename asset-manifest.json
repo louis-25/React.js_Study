@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React.js_Study/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/React.js_Study/static/js/main.7b9f439e.chunk.js",
+    "main.js.map": "/React.js_Study/static/js/main.7b9f439e.chunk.js.map",
+    "runtime-main.js": "/React.js_Study/static/js/runtime-main.dae3ae1f.js",
+    "runtime-main.js.map": "/React.js_Study/static/js/runtime-main.dae3ae1f.js.map",
+    "static/js/2.03b5aeda.chunk.js": "/React.js_Study/static/js/2.03b5aeda.chunk.js",
+    "static/js/2.03b5aeda.chunk.js.map": "/React.js_Study/static/js/2.03b5aeda.chunk.js.map",
+    "static/js/3.4c72f0fd.chunk.js": "/React.js_Study/static/js/3.4c72f0fd.chunk.js",
+    "static/js/3.4c72f0fd.chunk.js.map": "/React.js_Study/static/js/3.4c72f0fd.chunk.js.map",
+    "index.html": "/React.js_Study/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/React.js_Study/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.03b5aeda.chunk.js.LICENSE.txt": "/React.js_Study/static/js/2.03b5aeda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dae3ae1f.js",
+    "static/js/2.03b5aeda.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.7b9f439e.chunk.js"
+  ]
+}

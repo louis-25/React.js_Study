@@ -33,6 +33,7 @@ function TodoHead() {
     const todos = useTodoState();
     const undoneTasks = todos.filter(todo => !todo.done);
 
+    //JavaScript 날짜함수
     const today = new Date();
     const dateString = today.toLocaleDateString('ko-KR',{
         year: 'numeric',

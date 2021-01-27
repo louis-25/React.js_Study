@@ -1,4 +1,4 @@
-import React, { useReducer, createContext, useState, useRef, useContext } from 'react';
+import React, { useReducer, createContext, useRef, useContext } from 'react';
 
 const initialTodos = [
     {
@@ -43,6 +43,7 @@ function todoReducer(state, action) {
     }
 }
 
+// Context
 const TodoStateContext = createContext();
 const TodoDispatchContext = createContext();
 const TodoNextIdContext = createContext();
@@ -62,6 +63,7 @@ export function TodoProvider ({ children }) {
     );
 }
 
+// 커스텀 HOOK
 export function useTodoState() {
     const context = useContext(TodoStateContext);
     if (!context) {
